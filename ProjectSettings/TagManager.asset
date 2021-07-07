@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pick Up
+  - Door
+  - Reset
+  - Laser Button
+  - Laser
+  - Reciever
+  - Door1
+  - Switch
+  - Door2
+  - Switch1
+  - Switch2
+  - Switch3
+  - Trigger1
+  - Trigger2
+  - Trigger3
+  - Trigger4
+  - Trigger
+  - Door3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

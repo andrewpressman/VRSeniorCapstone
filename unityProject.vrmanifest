@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.rollaballproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Unity Projects\\Roll A ball project\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Roll A ball project [Testing]"
+        }
+      }
+    }
+  ]
+}
